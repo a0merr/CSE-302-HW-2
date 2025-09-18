@@ -1,4 +1,3 @@
-// stringdecoding.cpp
 #include <string>
 #include "StackType.h"
 #include "QueType.h"
